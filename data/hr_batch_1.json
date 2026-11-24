@@ -1,0 +1,402 @@
+[
+  {
+    "sender_name": "Aditya Kulkarni",
+    "sender_email": "aditya.kulkarni92@gmail.com",
+    "subject": "Application for Senior Python Developer (Pune) - Ref NX-DEV-1142",
+    "body": "Dear Hiring Team,\n\nI am writing to apply for the Senior Python Developer position (Ref NX-DEV-1142) at your Pune office, which I found on your careers page. I have six years of experience building backend systems in Django and FastAPI, and for the last two years I have been leading a team of four engineers at a fintech company in Baner.\n\nIn my current role I redesigned our payment reconciliation service, bringing processing time down from 40 minutes to under 6, and I have hands-on experience with PostgreSQL, Redis, Celery and AWS. I am looking to move into a role with more ownership of architecture decisions, which your job description seems to offer.\n\nMy notice period is 60 days, reducible to 30 with buyout. My CV is attached, and I would be glad to share GitHub links or sample code on request.\n\nRegards,\nAditya Kulkarni\n+91 98220 55143",
+    "attachment_names": ["Aditya_Kulkarni_CV.pdf"],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Priyanka Venkatesh",
+    "sender_email": "priyanka.venkatesh@outlook.com",
+    "subject": "Digital Marketing Manager - Bengaluru | Application",
+    "body": "Hello,\n\nI would like to be considered for the Digital Marketing Manager role advertised on LinkedIn for your Bengaluru office. I have spent the last seven years in performance marketing, most recently as Lead - Growth at a D2C brand where I managed a monthly budget of around Rs. 38 lakh across Google, Meta and programmatic channels.\n\nOver the last year I brought our blended CAC down by 27% and built a lifecycle email programme that now contributes nearly 18% of revenue. I am comfortable with GA4, Looker Studio and HubSpot, and I enjoy working closely with product and sales teams, which is something I understand is important for this role.\n\nI have attached my CV and a short case study deck. I am available for a call on any weekday after 6 PM.\n\nWarm regards,\nPriyanka Venkatesh\nLead - Growth | Fableloom Foods Pvt. Ltd.\nKoramangala, Bengaluru 560034\nM: +91 99001 23478 | LinkedIn: linkedin.com/in/priyankavenkatesh",
+    "attachment_names": ["Priyanka_Venkatesh_CV.pdf", "Growth_Case_Study.pdf"],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Sunita Bhosale",
+    "sender_email": "sunita.bhosale27@gmail.com",
+    "subject": "Accounts Executive - Mumbai",
+    "body": "Hi, applying for the Accounts Executive role in Mumbai. Resume attached. Thanks, Sunita Bhosale",
+    "attachment_names": ["Sunita_Bhosale_Resume.docx"],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Rohan Gupta",
+    "sender_email": "rohan.gupta.noida@gmail.com",
+    "subject": "Sales Executive job ke liye apply kar raha hu",
+    "body": "Hello sir,\n\nMaine aapki website pe Sales Executive ki vacancy dekhi Noida ke liye. Mujhe 3 saal ka B2B software sales ka experience hai aur abhi main Gurgaon mein kaam kar raha hu. Target achieve karne mein mera record achha hai, last year 112% tha.\n\nMera CV attach kar diya hai. Agar aap bulayenge toh main interview ke liye aa sakta hu.\n\nThank you,\nRohan Gupta",
+    "attachment_names": ["Rohan_Gupta_CV.pdf"],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Fatima Sheikh",
+    "sender_email": "fatima.sheikh.design@gmail.com",
+    "subject": "UI/UX Designer position, Hyderabad - application with portfolio",
+    "body": "Dear Sir/Madam,\n\nI am interested in the UI/UX Designer opening at your Hyderabad office. I have four years of experience designing SaaS dashboards and mobile apps, and I have worked extensively in Figma and design systems. My portfolio is at fatimasheikh.design and my CV is attached for your reference.\n\nI would be happy to complete a design task if required.\n\nThank you for your time.\nFatima Sheikh",
+    "attachment_names": ["Fatima_Sheikh_CV.pdf"],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Karthik Narayanan",
+    "sender_email": "karthik.narayanan@zohomail.in",
+    "subject": "DevOps Engineer (Chennai) - referred by Vignesh R",
+    "body": "Dear Recruitment Team,\n\nMy name is Karthik Narayanan and I am applying for the DevOps Engineer position at your Chennai office. I was referred by Vignesh R from your platform engineering team, with whom I worked at my previous organisation for two years.\n\nI have five years of experience with Kubernetes, Terraform, Jenkins and AWS, and I currently manage CI/CD pipelines for around 40 microservices. I recently led our migration from self-hosted Jenkins to GitHub Actions, which cut our deployment time by half.\n\nPlease find my CV attached. I am currently serving a notice period that ends on 15 December 2026, so I can join immediately after. Kindly let me know if you need any more information.\n\nThanks and regards,\nKarthik Narayanan\nSenior DevOps Engineer\nMobile: +91 94440 11829\n\nThis email and any files transmitted with it are confidential and intended solely for the use of the individual to whom they are addressed.",
+    "attachment_names": ["Karthik_Narayanan_Resume.pdf"],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Meera Joshi",
+    "sender_email": "meerajoshi.writes@gmail.com",
+    "subject": "Content Writer (Remote) - application",
+    "body": "Hello team,\n\nI would like to apply for the remote Content Writer position. I have written long-form technical and marketing content for three years, mostly for B2B tech companies, and I am comfortable with SEO and basic keyword research. A few of my published pieces are linked in the CV attached.\n\nLooking forward to hearing from you.\n\nMeera Joshi",
+    "attachment_names": ["Meera_Joshi_CV_ContentWriter.pdf"],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Sandeep Rawat",
+    "sender_email": "sandeep.rawat1998@gmail.com",
+    "subject": "Applicaton for customer support asociate night shift",
+    "body": "Hello sir\n\nI am intrested in customer support associate job in Gurugram night shift. I have 2 year experience in voice process and my english is good. I can join in 15 days. My cv is attch.\n\nThank you\nSandeep Rawat",
+    "attachment_names": ["Sandeep_Rawat_CV.pdf"],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Rhea D'Souza",
+    "sender_email": "rhea.dsouza@gmail.com",
+    "subject": "Referred by Nikhil Deshmukh - Data Analyst role",
+    "body": "Dear Hiring Manager,\n\nNikhil Deshmukh from your engineering team suggested that I apply for the Data Analyst role in Pune, so I am sending my CV directly. I have three years of experience in SQL, Power BI and Python, and for the last year I have been building dashboards for a retail analytics firm.\n\nNikhil mentioned that your team is expanding its reporting function this quarter, which is an area I have worked in closely. I have attached my resume for your consideration and I am happy to speak at your convenience.\n\nYou may also reach me at +91 97650 33218.\n\nThank you,\nRhea D'Souza",
+    "attachment_names": ["Rhea_DSouza_CV.pdf"],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Anjali Menon",
+    "sender_email": "anjali.menon.ba@gmail.com",
+    "subject": "Business Analyst, Mumbai - Anjali Menon (9 yrs exp.)",
+    "body": "Good morning,\n\nI am writing to express my interest in the Business Analyst role in your Mumbai office (posted on Naukri on 15 October). I bring nine years of experience in the BFSI domain, including requirement gathering, process mapping and UAT for core banking and lending systems. I have worked in agile teams and led a group of three analysts at my present organisation.\n\nMy current CTC is Rs. 21.5 LPA and my expectation is in the range of Rs. 26-28 LPA, subject to discussion. My notice period is 90 days, with the option to negotiate up to 45 days depending on the offer.\n\nI have attached my updated CV and two reference contacts. I would welcome the chance to discuss how I could contribute to your analytics and product teams.\n\nBest regards,\nAnjali Menon\nSenior Business Analyst\nSunrise Finserv Ltd., BKC, Mumbai 400051\nM: +91 98190 77621 | anjali.menon.ba@gmail.com\n\nThis email is confidential. If you are not the intended recipient, please delete it.",
+    "attachment_names": ["Anjali_Menon_CV_2026.pdf", "References.pdf"],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Subhashree Mohanty",
+    "sender_email": "subhashree.mohanty@gmail.com",
+    "subject": "QA Engineer - application (open to remote)",
+    "body": "Hi,\n\nI am applying for the QA Engineer position. I have three years of experience in manual and automation testing using Selenium, Cypress and Postman, and I am based in Bhubaneswar but open to remote work or relocation to Pune. CV is attached.\n\nThanks,\nSubhashree Mohanty",
+    "attachment_names": ["Subhashree_Mohanty_QA_CV.pdf"],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Imran Ali",
+    "sender_email": "imran.ali.admin@gmail.com",
+    "subject": "Office Administrator vacancy",
+    "body": "Sir, I want to apply for Office Administrator in Hyderabad. My CV is attached, kindly consider. - Imran Ali",
+    "attachment_names": ["Imran_Ali_CV.pdf"],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Vishal Pandey",
+    "sender_email": "vishalpandey.k@gmail.com",
+    "subject": "Application",
+    "body": "Please find attached.",
+    "attachment_names": ["Vishal_Pandey_Resume.pdf"],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Ritika Sharma",
+    "sender_email": "ritika.sharma.1997@outlook.com",
+    "subject": "CV - Ritika Sharma",
+    "body": "Ritika Sharma",
+    "attachment_names": ["CV_Ritika_Sharma.pdf"],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Gaurav Chopra",
+    "sender_email": "gaurav.chopra85@gmail.com",
+    "subject": "resume",
+    "body": "CV attached sir.\n\nSent from my iPhone",
+    "attachment_names": ["Gaurav_Chopra_CV.pdf"],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Pradeep Kumar Singh",
+    "sender_email": "pradeepsingh.lko@gmail.com",
+    "subject": "Resume for any suitable vacancy",
+    "body": "Sir/Madam,\n\nKindly find the attached resume for any suitable vacancy in your esteemed organisation. Awaiting your positive response.\n\nThanking you,\nYours faithfully,\nPradeep Kumar Singh\nB.Com, PGDBM | Lucknow\nMob: +91 94150 66302",
+    "attachment_names": ["Pradeep_Kumar_Singh_Resume.docx"],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Nikhil Deshmukh",
+    "sender_email": "nikhil.deshmukh@nexora.in",
+    "subject": "FW: Resume - Mohit Arora",
+    "body": "Please dekh lo, mera cousin hai. Kisi ko forward kar dena jo hiring dekh raha hai.\n\n---------- Forwarded message ---------\nFrom: Mohit Arora <mohit.arora.dev@gmail.com>\nDate: Tue, 20 Oct 2026 at 9:14 PM\nSubject: Resume\nTo: Nikhil Deshmukh <nikhil.deshmukh@nexora.in>\n\nNikhil bhai, resume attach kar raha hu. Backend ya full stack koi bhi opening ho toh bata dena. Thanks.",
+    "attachment_names": ["Mohit_Arora_Resume.pdf"],
+    "difficulty": "tricky"
+  },
+  {
+    "sender_name": "Shruti Agrawal",
+    "sender_email": "shruti.agrawal.acc@gmail.com",
+    "subject": "Resume attached",
+    "body": "Resume attached.\n\n--\nShruti Agrawal\nB.Com | Tally Prime | GST Filing\nMobile: +91 98273 41906\nIndore, Madhya Pradesh\n\nThe information in this e-mail is confidential and may be legally privileged. It is intended solely for the addressee.",
+    "attachment_names": ["Shruti_Agrawal_Resume.pdf"],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Harpreet Singh",
+    "sender_email": "harpreet.singh.cv@gmail.com",
+    "subject": "CV - Hindi aur English dono",
+    "body": "Sir Hindi CV hai aur English CV bhi, dono attach hai. Koi bhi opening ho toh please bata dena.\n\nRegards\nHarpreet Singh",
+    "attachment_names": ["Harpreet_CV_English.pdf", "Harpreet_CV_Hindi.pdf"],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Tanvi Kale",
+    "sender_email": "tanvi.kale22@gmail.com",
+    "subject": "Job aplication",
+    "body": "Attached is my updated resume (v3). I had also applied thru linkedin last week but not sure if it reached you.\n\n- Tanvi",
+    "attachment_names": ["Tanvi_Kale_Resume_v3.pdf"],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Siddharth Nair",
+    "sender_email": "siddharth.nair2027@gmail.com",
+    "subject": "Query regarding summer internship 2027",
+    "body": "Dear Sir/Madam,\n\nI am a third-year B.Tech (Computer Science) student at a college in Kochi, and I am looking for a software development internship for summer 2027, ideally for 8 to 10 weeks. I have worked on two projects using React and Node.js and I am currently learning cloud basics.\n\nCould you please let me know whether you offer internships to students, and if so, how and when to apply? I would also like to know whether the internship is paid and whether it can be done remotely.\n\nThank you for your time.\n\nSiddharth Nair\nKochi, Kerala",
+    "attachment_names": [],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Aarav Malhotra",
+    "sender_email": "aarav.malhotra03@gmail.com",
+    "subject": "Marketing internship?",
+    "body": "Hi, do you have any internships open for marketing students? Pls let me know. - Aarav",
+    "attachment_names": [],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Divya Prajapati",
+    "sender_email": "divya.prajapati.bca@gmail.com",
+    "subject": "Fresher ke liye vacancy hai kya?",
+    "body": "Sir namaste,\n\nMaine BCA 2026 mein complete kiya hai Ahmedabad se aur abhi job dhoondh rahi hu. Kya aapke yahan fresher ke liye koi vacancy hai? Mujhe basic HTML, CSS aur Java aata hai. Agar hai toh kaise apply karna hai, please bataiye.\n\nThank you,\nDivya Prajapati",
+    "attachment_names": [],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Ishita Chakraborty",
+    "sender_email": "ishita.chakraborty@outlook.com",
+    "subject": "Enquiry: 8-week summer internship in analytics / operations",
+    "body": "Dear Sir/Madam,\n\nI am a first-year MBA student at a business school in Kolkata, specialising in Business Analytics, and I am writing to enquire about summer internship opportunities at Nexora for May to July 2027. Before my MBA I worked for two years as an operations analyst at a logistics company in Howrah, so I would be particularly interested in roles related to analytics, operations or supply chain.\n\nI have gone through your website and understand that you work with several mid-sized logistics clients. Could you please tell me whether you hold a formal summer internship programme, what the selection process looks like and whether there is a fixed application window? Our college placement cell also needs a confirmation from the company at least four weeks before the internship begins.\n\nI will be glad to share my CV and academic record once I know the right person to send them to. Thank you for your time and guidance.\n\nYours sincerely,\nIshita Chakraborty\nMBA (Business Analytics), Batch 2026-28",
+    "attachment_names": [],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Prof. Sandhya Rao",
+    "sender_email": "placements@deccantech.edu.in",
+    "subject": "Campus recruitment drive 2027 batch - Deccan Institute of Technology, Hyderabad",
+    "body": "Dear Sir/Madam,\n\nGreetings from the Training & Placement Cell, Deccan Institute of Technology, Hyderabad. Our 2027 batch of B.Tech (CSE, IT, ECE) and MCA students, around 420 in number, will be eligible for placements from 1 December 2026.\n\nWe would like to invite Nexora for a campus drive and kindly request details of your hiring requirements, eligibility and the preferred dates. Our placement brochure is available on request.\n\nRegards,\nProf. Sandhya Rao\nTraining & Placement Officer\n040-2345 8812",
+    "attachment_names": [],
+    "difficulty": "tricky"
+  },
+  {
+    "sender_name": "Yash Thakur",
+    "sender_email": "yash.thakur.diploma@gmail.com",
+    "subject": "internship kab hota hai?",
+    "body": "Bhai/sir, main diploma 3rd year (computer) mein hu Nagpur se. 6 mahine ki internship chahiye final project ke liye. Stipend milta hai kya aur kya remote ho sakta hai? Please bata do.",
+    "attachment_names": [],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Rahul Bansal",
+    "sender_email": "rahul.bansal2024@gmail.com",
+    "subject": "Openings for freshers in Pune",
+    "body": "Is there any opening for freshers in Pune? Kindly reply. Thank you.",
+    "attachment_names": [],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Neeraj Mishra",
+    "sender_email": "neeraj.mishra.job@gmail.com",
+    "subject": "Humble request for any job opening",
+    "body": "Respected Sir/Madam,\n\nI am humbly writing to you, Sir, as I am a fresh graduate (B.Sc. IT, 2025) from Varanasi and am sitting jobless since last one year. I have written to many companies but no one has replied back and my family is very much dependent on me. I am ready to do any work, even on low salary, and I can relocate to any city as per company need.\n\nSir, I have learned computer hardware, networking and basic Excel and I have done a 3 months course in tally also. Kindly do the needful and let me know if any vacancy is there in your good company. I will be very thankful for your kind support.\n\nThanking you in anticipation,\nNeeraj Mishra\nMob: 9415 xxx 482",
+    "attachment_names": [],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Kavya Reddy",
+    "sender_email": "kavya.reddy.cse@gmail.com",
+    "subject": "Internship enquiry - I use your platform for my college project",
+    "body": "Hello,\n\nI am a final-year engineering student in Vijayawada. I have been using the free tier of your platform for my final-year project for the last two months, and I really like how it works. Do you offer internships, perhaps in your support or product team? I would love to learn more about how the product is built.\n\nThank you,\nKavya Reddy",
+    "attachment_names": [],
+    "difficulty": "tricky"
+  },
+  {
+    "sender_name": "Pooja Deshmukh",
+    "sender_email": "pooja.deshmukh.da@gmail.com",
+    "subject": "Following up - Data Analyst interview on 14 October",
+    "body": "Dear Sir/Madam,\n\nI attended the technical interview for the Data Analyst position on 14 October 2026 with Mr. Kunal Verma and was told that I would hear back within a week. As it has been eight days, I wanted to check whether there is any update on my application.\n\nI remain very interested in the role. Please let me know if you require any additional documents from my side.\n\nThank you,\nPooja Deshmukh",
+    "attachment_names": [],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Arjun Pillai",
+    "sender_email": "arjun.pillai.dev@gmail.com",
+    "subject": "Status - Backend Engineer NX-DEV-1190",
+    "body": "Hi, any update on my application for Backend Engineer (ID NX-DEV-1190)? Applied on 2 Oct. - Arjun",
+    "attachment_names": [],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Rakesh Dubey",
+    "sender_email": "rakesh.dubey.pm@gmail.com",
+    "subject": "Re: Offer letter - still not received, 3 weeks now",
+    "body": "To the Recruitment Team,\n\nThis is my fourth email on this. I completed all three interview rounds between 1 and 9 September and on 28 September Ms. Pallavi told me on the phone that I had been selected and that the offer letter would be sent in 2-3 days. It is 22 October, and I have still received nothing. Every time I call, I am told that 'it is with the approvals'.\n\nBased on that verbal confirmation I gave my resignation at my current company on 5 October and my last day there is 4 November. If this offer is not coming through, then I should have been informed immediately. This is extremely unprofessional and I am seriously upset about how this process has been handled.\n\nI expect a written response with the offer letter, or a clear explanation of the delay, by tomorrow evening.\n\nRakesh Dubey\n+91 98112 90456",
+    "attachment_names": [],
+    "difficulty": "tricky"
+  },
+  {
+    "sender_name": "Lakshmi Ramachandran",
+    "sender_email": "lakshmi.ramachandran@gmail.com",
+    "subject": "Follow-up on final round - Product Manager (Chennai)",
+    "body": "Dear Ms. Thomas,\n\nThank you once again for the opportunity to interview for the Product Manager role in Chennai. I completed the final round with Mr. Ashwin Rao on 9 October 2026 and, since then, I have not had any further communication. I wanted to follow up politely to ask whether there is a tentative timeline for the decision.\n\nPlease let me know if I can provide anything else in the meantime.\n\nBest regards,\nLakshmi Ramachandran",
+    "attachment_names": [],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Mayur Chavan",
+    "sender_email": "mayur.chavan.dev@gmail.com",
+    "subject": "Interview ka result kab tak?",
+    "body": "Sir kal mera interview tha Java Developer ke liye (Pune office). Result kab tak aayega? Kya aap recruiter ka number de sakte hain taaki main directly pooch sakun? Dusri company ka offer pending hai, isliye jaldi batana.\n\nThanks\nMayur",
+    "attachment_names": [],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Sneha Phadke",
+    "sender_email": "sneha.phadke@gmail.com",
+    "subject": "Request to reschedule interview",
+    "body": "Hello, can I reschedule my interview tomorrow (23 Oct, 11 AM) to Friday? Family emergency. Sorry for the trouble.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Ankita Saxena",
+    "sender_email": "ankita.saxena.mktg@gmail.com",
+    "subject": "Offer for Marketing Lead - request for revision and joining date",
+    "body": "Dear Sir/Madam,\n\nThank you very much for the offer letter dated 16 October 2026 for the position of Marketing Lead, Mumbai. I am excited about the opportunity to work with the team.\n\nHaving gone through the compensation structure, I would like to request a review of the fixed component. The offered fixed CTC of Rs. 18 lakh is lower than what we had discussed during my last interview round, where Rs. 20 lakh was mentioned. I would be grateful if you could look into this and revert with a revised offer.\n\nSeparately, my current employer has asked me to serve the complete 90-day notice period. Would it be possible to extend the joining date to 20 January 2027? I would also like to know the last date for accepting the current offer.\n\nI look forward to your response.\n\nWith regards,\nAnkita Saxena\n+91 98674 20331",
+    "attachment_names": ["Offer_Letter_Signed_Copy.pdf"],
+    "difficulty": "tricky"
+  },
+  {
+    "sender_name": "Varun Bhatt",
+    "sender_email": "varun.bhatt@gmail.com",
+    "subject": "Re: Interview Invitation - Product Designer",
+    "body": "Hi,\n\nI attended both rounds for Product Designer last week and have not heard back since. Could you please let me know where things stand?\n\nThanks,\nVarun\n\nOn Mon, 12 Oct 2026 at 4:32 PM, Talent Team <careers@nexora.in> wrote:\n> Hi Varun,\n> Thank you for your time today. We will get back to you with next steps shortly.\n> Regards,\n> Talent Team, Nexora Technologies",
+    "attachment_names": [],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Gaurav Bhatia",
+    "sender_email": "gaurav.bhatia.work@gmail.com",
+    "subject": "Application ID NX-OPS-0875 - documents submitted, awaiting confirmation",
+    "body": "Dear Sir/Madam,\n\nI had been shortlisted for the Operations Executive role and submitted my educational certificates and previous experience letters through the link sent on 8 October. I have not received any confirmation of receipt. Could you kindly confirm that the documents were received and let me know the next step in the process?\n\nRegards,\nGaurav Bhatia",
+    "attachment_names": [],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Meenakshi Iyer",
+    "sender_email": "meenakshi.iyer.fin@gmail.com",
+    "subject": "Application status - Finance Manager role (Interview with Mr. Joshi, 29 Sept)",
+    "body": "Dear Sir/Madam,\n\nI hope this message finds you well. I am writing to follow up on my application for the Finance Manager role in Bengaluru. I applied on 14 September, had a phone screening on 22 September, and met Mr. Joshi and Ms. Rathi in person on 29 September. At the end of the discussion, I was informed that the next update would come within two weeks, and it has now been three.\n\nI understand that hiring processes can take time and that the team may have many candidates to consider. However, I have another offer that requires a decision from me by 2 November, and I would like to make an informed choice. I remain very interested in the position at Nexora and would be happy to schedule a quick call at any time that suits you.\n\nThank you for your time and consideration.\n\nWarm regards,\nMeenakshi Iyer\nChartered Accountant\n+91 98450 66172",
+    "attachment_names": [],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Abhishek Tripathi",
+    "sender_email": "abhishek.tripathi.k@gmail.com",
+    "subject": "2 hafte ho gaye",
+    "body": "Hello, mera interview 8 Oct ko tha Support Lead ke liye. 2 hafte se upar ho gaye aur koi reply nahi aaya. Kam se kam ek mail toh bhej dete ki selected hu ya nahi. Please status batao.",
+    "attachment_names": [],
+    "difficulty": "easy"
+  },
+  {
+    "sender_name": "Dr. Anil Wadhwa",
+    "sender_email": "anil.wadhwa@wadhwadiagnostics.in",
+    "subject": "Resume - separate from my account matters",
+    "body": "Dear Sir/Madam,\n\nI have been a customer of Nexora for the last two years (account ID NX-C-20418) for my diagnostic lab's scheduling system, and I am very happy with the service. Separately from my account, I would like to explore a role in your customer success team. I have 12 years of experience running operations and client relationships in the healthcare sector, and I feel that my understanding of the product from a user's point of view would be valuable.\n\nI have attached my resume. Kindly forward it to the concerned team and please do not mix this with my account support tickets, which are handled separately.\n\nRegards,\nDr. Anil Wadhwa\nWadhwa Diagnostics Pvt. Ltd., Ludhiana\nM: +91 98150 31127",
+    "attachment_names": ["Anil_Wadhwa_Resume.pdf"],
+    "difficulty": "tricky"
+  },
+  {
+    "sender_name": "Neha Kapoor",
+    "sender_email": "neha.kapoor@talentbridge.in",
+    "subject": "6 pre-screened Java developers available for immediate joining - Pune/Bengaluru",
+    "body": "Dear Sir/Madam,\n\nThis is Neha Kapoor from TalentBridge Consulting. We have six pre-screened Java developers (4-8 years of experience, notice period of 15-30 days) currently available for Pune and Bengaluru. Their anonymised profiles are attached.\n\nOur fee is 8.33% of the annual CTC, payable only on successful joining, with a 90-day replacement guarantee. Happy to set up a call this week.\n\nRegards,\nNeha Kapoor | Senior Consultant\nTalentBridge Consulting Pvt. Ltd., Pune",
+    "attachment_names": ["Java_Profiles_Batch_Oct2026.pdf"],
+    "difficulty": "tricky"
+  },
+  {
+    "sender_name": "Rajiv Menon",
+    "sender_email": "rajiv.menon@pinnaclestaffing.co.in",
+    "subject": "Request for empanelment as recruitment partner - Pinnacle Staffing Solutions",
+    "body": "Dear Sir/Madam,\n\nGreetings from Pinnacle Staffing Solutions, a recruitment firm with 14 years of experience in IT, finance and operations hiring across Mumbai, Pune, Hyderabad and Bengaluru. We have placed over 3,200 candidates with mid-sized technology and services companies in the last five years.\n\nWe would like to be considered for empanelment as a preferred recruitment partner for Nexora. We offer a flexible commercial model: 8.33% for permanent placements and a 12% markup on contract staffing, along with a 3-month replacement guarantee. Our team can share profiles within 48 hours of receiving a job description.\n\nA company profile and a list of our key clients are attached. I would appreciate 15 minutes of your time for an introductory call at your convenience.\n\nRegards,\nRajiv Menon\nDirector - Business Development\nPinnacle Staffing Solutions LLP\n402, Corporate Park, Vashi, Navi Mumbai 400703\nT: 022 4128 9905\n\nCONFIDENTIAL: This message and its attachments may contain confidential information intended only for the recipient.",
+    "attachment_names": ["Pinnacle_Company_Profile.pdf", "Client_List_2026.pdf"],
+    "difficulty": "tricky"
+  },
+  {
+    "sender_name": "Kiran Joshi",
+    "sender_email": "kiran@hirewise.co.in",
+    "subject": "Profiles for your Pune requirements",
+    "body": "Hi, we have profiles matching your Pune openings. Shall I share them? - Kiran, Hirewise Consultants",
+    "attachment_names": [],
+    "difficulty": "tricky"
+  },
+  {
+    "sender_name": "Bhavesh Solanki",
+    "sender_email": "bhavesh.solanki@gmail.com",
+    "subject": "Plan ka issue + job ke liye CV",
+    "body": "Hello team,\n\nMera account NX-C-31877 hai aur invoice mein GST number galat aa raha hai, please usko theek kar do. Dusri baat, aapke support engineer ne call pe bola tha ki aapke yahan hiring chal rahi hai. Maine 5 saal Surat mein ek ERP company mein implementation consultant ka kaam kiya hai. Mera CV attach kar raha hu, agar koi suitable role ho toh please dekh lena.\n\nThanks,\nBhavesh",
+    "attachment_names": ["Bhavesh_Solanki_CV.pdf"],
+    "difficulty": "tricky"
+  },
+  {
+    "sender_name": "Suresh Patel",
+    "sender_email": "suresh.patel@patelmetals.in",
+    "subject": "Request - my daughter is looking for an opportunity (long-time Nexora customer)",
+    "body": "Dear Sir/Madam,\n\nWe have been using Nexora's inventory and billing platform at Patel Metals, Rajkot, for the last three years and have always found your team very cooperative, especially your support staff who helped us during last year's GST migration.\n\nI am writing today on a personal note. My daughter, Jhanvi Patel, has recently completed her MBA in Finance and is looking for a good first job. I have attached her resume, and if there is a suitable opening in your finance or customer operations team, I would be grateful if you could consider her profile. She is willing to relocate to Pune or Ahmedabad.\n\nI understand this is not related to our account, and I do not expect any special treatment, only that her application is looked at fairly.\n\nThank you very much for your time.\n\nSuresh Patel\nManaging Director, Patel Metals\n+91 98250 77103",
+    "attachment_names": ["Jhanvi_Patel_Resume.pdf"],
+    "difficulty": "tricky"
+  },
+  {
+    "sender_name": "Swati Narang",
+    "sender_email": "swati.narang@careerpoint-consulting.com",
+    "subject": "Candidate profile for Data Scientist opening - Mr. Rishabh Khanna",
+    "body": "Dear Hiring Manager,\n\nWe would like to submit the profile of a candidate for your Data Scientist opening in Hyderabad.\n\nName: Rishabh Khanna\nExperience: 6 years (NLP and forecasting)\nCurrent CTC: Rs. 24 LPA | Expected: Rs. 30 LPA\nNotice period: 30 days | Current location: Hyderabad\n\nHis CV is attached. Kindly let us know if you would like to proceed to an interview and we will coordinate the schedule.\n\nBest regards,\nSwati Narang\nCareerPoint Consulting, Hyderabad",
+    "attachment_names": ["Rishabh_Khanna_CV.pdf"],
+    "difficulty": "tricky"
+  },
+  {
+    "sender_name": "Mukesh Jaiswal",
+    "sender_email": "mukesh.jaiswal@brightlinepackaging.in",
+    "subject": "Opportunity at Nexora - CV",
+    "body": "Sir namaste,\n\nMain Brightline Packaging mein supply coordinator hu, jo aapke vendor hain. Aapke Pune office aana jana hota hai toh Nexora ka kaam dekh ke achha laga. Agar aapke yahan procurement ya logistics mein koi opening hai toh meri CV attach hai.\n\nRegards,\nMukesh Jaiswal",
+    "attachment_names": ["Mukesh_Jaiswal_CV.pdf"],
+    "difficulty": "tricky"
+  },
+  {
+    "sender_name": "Ravi Shankar",
+    "sender_email": "ravi.shankar.mba@gmail.com",
+    "subject": "Love the product - are you hiring?",
+    "body": "Hi, I have been using your tool for my consulting firm for about a year and it has been great. Btw are you hiring for any sales or partnerships roles? CV attached in case.\n\nRavi",
+    "attachment_names": ["Ravi_Shankar_CV.pdf"],
+    "difficulty": "tricky"
+  },
+  {
+    "sender_name": "Divya Menon",
+    "sender_email": "divya.menon@staffedge.in",
+    "subject": "Re: Empanelment request - StaffEdge Solutions",
+    "body": "Hi,\n\nJust following up on my earlier mail regarding empanelment as a recruitment partner. We have a few ready profiles for QA and DevOps roles and can share them as soon as you confirm. Could you please let me know who the right person to speak to is?\n\nThanks,\nDivya Menon\nStaffEdge Solutions, Noida\n\n> On Wed, 14 Oct 2026, Divya Menon wrote:\n> Hello, We are StaffEdge Solutions and would like to partner with you for your hiring needs. Our rate is 8.33% on annual CTC. Brochure attached.",
+    "attachment_names": ["StaffEdge_Brochure.pdf"],
+    "difficulty": "tricky"
+  }
+]

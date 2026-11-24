@@ -1,0 +1,517 @@
+[
+  {
+    "sender_name": "Axis Bank Corporate Collections",
+    "sender_email": "settlements@axisbank.co.in",
+    "subject": "Merchant Settlement Report - 22 Oct 2026",
+    "body": "Nexora Electronics Pvt Ltd,\n\nSettlement of INR 4,86,240.75 has been processed for transactions dated 22 October 2026. One chargeback adjustment of INR 8,499 is included in the attached statement.\n\nRegards,\nAxis Bank Corporate Banking\nThis is an automated notification. Please do not reply.",
+    "attachment_names": [
+      "Nexora_Settlement_22102026.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "BlueDart Enterprise Services",
+    "sender_email": "updates@bluedart.com",
+    "subject": "AWB 784512963 Pickup Scheduled",
+    "body": "Pickup has been scheduled from Nexora's Andheri warehouse for AWB 784512963 on 24-Oct-2026 between 2:00 PM and 5:00 PM.\nOrigin: Mumbai | Destination: Bengaluru\nPackage count: 6",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "KPMG India Meeting Desk",
+    "sender_email": "calendar@kpmg.com",
+    "subject": "Re: Meeting - Q4 Process Review",
+    "body": "Updated calendar invitation for the vendor process review. Meeting moved from 11:00 AM to 3:30 PM on 28 October 2026 due to partner availability.\n\nPlease accept the revised invite.",
+    "attachment_names": [],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Metro Office Solutions",
+    "sender_email": "orders@metroofficesolutions.in",
+    "subject": "Quotation",
+    "body": "Hi team,\n\nAs discussed for Mumbai office, sharing quotation for A4 paper, printer cartridges, staplers and pantry tissues. Total INR 38,760 plus GST. Delivery can be done by Monday if PO received today.\n\nThanks,\nRakesh\nMetro Office Solutions\nSent from my iPhone",
+    "attachment_names": [
+      "MOS_Quotation_Oct2026.pdf",
+      "Product_Price_List.xlsx"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Microsoft 365 Service Health",
+    "sender_email": "noreply@microsoft.com",
+    "subject": "Action required: Shared mailbox storage approaching limit",
+    "body": "The shared mailbox nexora-admin has reached 91% of its storage allocation. If usage continues at the current rate, mail delivery may be affected.\n\nReview storage settings in the Microsoft 365 admin centre.",
+    "attachment_names": [],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Zoho Corporation",
+    "sender_email": "product@zohocorp.com",
+    "subject": "Zoho Expense Release Notes - October 2026",
+    "body": "We are rolling out updates to expense approval workflows, GST fields and policy controls. The new API endpoint for expense export will be available from 5 November 2026.\n\nYour current organisation licence has 86 active users against 100 purchased seats.",
+    "attachment_names": [
+      "Zoho_Expense_October_Release_Notes.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Thomas Cook Business Travel",
+    "sender_email": "corporate@thomascook.in",
+    "subject": "Travel Confirmation - Mr. Arjun Mehta",
+    "body": "Booking confirmed for Mumbai to Delhi, 4 November 2026, and return Delhi to Mumbai on 6 November 2026. Hotel accommodation at Aerocity has also been confirmed.\n\nTotal booking value: INR 27,840 including taxes.\n\nPlease find itinerary attached.",
+    "attachment_names": [
+      "TC_Itinerary_ArjunMehta_04112026.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "TechSkills India",
+    "sender_email": "registrations@techskillsindia.org",
+    "subject": "Registration Confirmation - Cybersecurity Awareness Workshop",
+    "body": "Registration received for three participants from Nexora for the Cybersecurity Awareness & Secure Workplace conference in Mumbai on 19 November 2026.\n\nDelegate fee: INR 12,600 plus GST.\n\nVenue and joining instructions are attached.",
+    "attachment_names": [
+      "Workshop_Confirmation_Nexora.pdf",
+      "Venue_Details.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Rao Mehta & Associates",
+    "sender_email": "compliance@raomehtaassociates.in",
+    "subject": "Reminder: Documents required for October GST reconciliation",
+    "body": "Please share the purchase register, sales register and GSTR-2B reconciliation for October 2026 by 3 November so that we can complete the monthly review and filing preparation.\n\nThis is a routine document request and no action is required beyond providing the records.",
+    "attachment_names": [],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Marsh India",
+    "sender_email": "servicing@marsh.com",
+    "subject": "Policy Renewal Documents - Nexora Electronics",
+    "body": "The renewal documents for the Industrial All Risk and Office Package policies are attached. The premium of INR 6,84,300 is due on 12 November 2026.\n\nPlease review the schedule and inform us of any changes in locations, insured assets or declared values.",
+    "attachment_names": [
+      "Policy_Schedule_2026-27.pdf",
+      "Premium_Notice.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "WorkNest Business Parks",
+    "sender_email": "leasing@worknest.in",
+    "subject": "Office Space Offer - Andheri East",
+    "body": "Following up regarding the additional workspace requirement discussed earlier. We have 4,800 sq ft furnished space available at Andheri East from December 2026, with 48 workstations and two meeting rooms.\n\nIndicative rent: INR 9.2 lakh/month.\n\nBrochure attached.",
+    "attachment_names": [
+      "WorkNest_Andheri_Brochure.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Indeed India Business Sales",
+    "sender_email": "sales@indeed.com",
+    "subject": "Hiring Package Proposal",
+    "body": "Hi Nexora team,\n\nYour recent technology hiring activity suggests you may benefit from our 60-day sponsored jobs package. We can provide a package for up to 25 active vacancies at INR 1,25,000 plus GST.\n\nCan we schedule a 15-minute call this week?\n\nUnsubscribe from promotional emails: indeed.in/unsubscribe",
+    "attachment_names": [
+      "Indeed_Employer_Package.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "VoltEdge Components",
+    "sender_email": "vendorregistration@voltedgecomponents.in",
+    "subject": "Vendor Onboarding - KYC Documents Required",
+    "body": "Dear Procurement Team,\n\nFor activation of Nexora in our supplier portal, kindly upload GST certificate, PAN, cancelled cheque and authorised signatory details. The portal registration link will expire on 30 October 2026.\n\nPlease complete the KYC formalities at your earliest convenience.",
+    "attachment_names": [
+      "Vendor_KYC_Checklist.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Shakti Electronics Distribution",
+    "sender_email": "dispatch@shaktielectronics.in",
+    "subject": "Invoice 2026-27/SE/1842 - Shipment Dispatched",
+    "body": "Your order against PO NX-PO-2641 has been dispatched from Pune. 42 cartons of HDMI adapters and 18 cartons of USB-C hubs have left our warehouse today.\n\nInvoice value: INR 7,64,880 including GST.\n\nDelivery challan and invoice attached.",
+    "attachment_names": [
+      "SE_1842_Invoice.pdf",
+      "Delivery_Challan_1842.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Amazon Business Seller Services",
+    "sender_email": "seller-notifications@amazon.in",
+    "subject": "Important update to marketplace seller policies",
+    "body": "Effective 15 November 2026, revised requirements will apply to electronics product listings, invoice information and return handling. Please review the updated seller policy in Seller Central.\n\nNo immediate action is required unless your listings are affected.",
+    "attachment_names": [],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "GST Network Advisory",
+    "sender_email": "noreply@gst.gov.in",
+    "subject": "Advisory regarding e-Invoice reporting time limit",
+    "body": "Taxpayers with aggregate annual turnover above the prescribed threshold are advised to ensure timely reporting of invoices on the Invoice Registration Portal. The advisory is applicable from 1 November 2026.\n\nThis communication is informational in nature.",
+    "attachment_names": [
+      "GSTN_eInvoice_Advisory_Oct2026.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Mumbai Community Food Trust",
+    "sender_email": "partnerships@mcftrust.org",
+    "subject": "CSR Partnership Proposal",
+    "body": "We are reaching out regarding our winter nutrition programme supporting 1,200 children across Mumbai and Thane. Corporate partners can sponsor food kits at INR 1,850 per family.\n\nA brief programme note is attached. We would appreciate an opportunity to discuss possible CSR support.",
+    "attachment_names": [
+      "MCFT_CSR_Proposal_2026.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "India Corporate Excellence Directory",
+    "sender_email": "awards@corporateexcellence.in",
+    "subject": "Notice: Nexora shortlisted for Top 50 Electronics Companies",
+    "body": "FINAL REMINDER!!! Nexora has been shortlisted for our 2026 Top 50 Electronics Companies directory. Inclusion package is INR 48,000 plus GST and includes logo placement, certificate and two-page company profile.\n\nPlease confirm before 31 October.\n\nRegards,\nAwards Team",
+    "attachment_names": [
+      "Top50_2026_Proposal.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Accounts Payable Desk",
+    "sender_email": "billing@nexora-payments.co",
+    "subject": "Urgent Invoice #INV-88419",
+    "body": "Your outstanding invoice of INR 74,620 is attached. Please open the secure document below to verify bank details and complete payment today:\nhttps://nexora-payments.co/invoice/88419\n\nPayment confirmation is required within 24 hours.",
+    "attachment_names": [
+      "Invoice_88419.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Apex Facility Services",
+    "sender_email": "accounts@apexfacility.in",
+    "subject": "Notice - Annual Facility Maintenance Charges",
+    "body": "NOTICE: Revised annual maintenance rates will apply from 1 December 2026 due to increased manpower and material costs. The monthly charge for the Mumbai office will change from INR 1,18,000 to INR 1,29,500 plus GST.\n\nPlease find revised rate sheet attached.\n\nRegards,\nApex Facility Services",
+    "attachment_names": [
+      "Revised_FM_Rates_2026.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Maharashtra Power Distribution",
+    "sender_email": "billing@mahavitaran.in",
+    "subject": "Electricity Bill - October 2026",
+    "body": "Consumer number 4408129031: October electricity bill for the Andheri office is INR 86,415. Payment due date is 8 November 2026.\n\nBill copy is available through the customer portal.",
+    "attachment_names": [
+      "MSEDCL_Oct2026_Bill.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Jio Business",
+    "sender_email": "enterprise@jio.com",
+    "subject": "Corporate Connectivity Account Statement",
+    "body": "Attached is the October 2026 account statement for Nexora enterprise mobile and broadband services. Total payable across registered services is INR 2,14,690.\n\nPayment due by 10 November 2026.",
+    "attachment_names": [
+      "JioBusiness_Statement_Oct2026.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "CleanPro Hygiene Services",
+    "sender_email": "cleanproservices@gmail.com",
+    "subject": "Re: Cleaning schedule",
+    "body": "Sir, tomorrow our team will come 7.30 morning for deep cleaning pantry and washrooms. Please allow entry and keep stores accessible. Kindly confirm.\n\nThanks,\nMahesh\nCleanPro",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Urban Pest Control",
+    "sender_email": "urbanpestcare@yahoo.com",
+    "subject": "Urgent",
+    "body": "Pest control service for Mumbai office is due this Sunday 25/10. Technician will visit between 8-10 AM. Please confirm if office open.\n\nSent from my iPhone",
+    "attachment_names": [],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "HDFC Life Corporate Desk",
+    "sender_email": "corporate.services@hdfclife.com",
+    "subject": "Employee Group Insurance - Data Reconciliation",
+    "body": "We are sharing the October member reconciliation statement for your group insurance account. Kindly review additions and deletions and return the signed confirmation by 29 October 2026.\n\nNo premium change is proposed in this communication.",
+    "attachment_names": [
+      "GroupPolicy_Reconciliation_Oct2026.xlsx"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Pune Print & Stationery",
+    "sender_email": "punestationery@gmail.com",
+    "subject": "Invoice",
+    "body": "Invoice attached for printer paper, folders and visiting cards delivered to Pune service centre. Total Rs. 14,860 incl GST.\nThank you for business.",
+    "attachment_names": [
+      "PPS_Invoice_2198.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "CloudServe Hosting",
+    "sender_email": "alerts@cloudserve.in",
+    "subject": "SSL Certificate Renewal Reminder",
+    "body": "Reminder: SSL certificate for portal.nexora.in expires on 14 November 2026. Renewal is currently pending.\n\nFailure to renew may result in browser security warnings and interruption of HTTPS access.\n\nPlease contact your account manager if this certificate is no longer required.",
+    "attachment_names": [],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "FreshBasket Corporate Pantry",
+    "sender_email": "orders@freshbasket.in",
+    "subject": "Monthly Pantry Supply - Confirmation",
+    "body": "As requested, we have scheduled the October pantry replenishment for 27 October at the Mumbai office. Items include tea, coffee, sugar, paper cups and packaged drinking water.\n\nEstimated invoice: INR 22,480 plus GST.",
+    "attachment_names": [
+      "Pantry_Order_Confirmation.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Bengaluru Office Furniture",
+    "sender_email": "sales@blrworkspace.in",
+    "subject": "Offer",
+    "body": "Special October rate for ergonomic chairs: INR 6,850 each for orders above 20 units. Delivery Bengaluru within 7 working days. Installation free.\n\nPrice valid till 31 Oct only!!!",
+    "attachment_names": [
+      "Chair_Offer_Oct2026.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Razorpay Merchant Operations",
+    "sender_email": "notifications@razorpay.com",
+    "subject": "Settlement exception - 23 October",
+    "body": "One transaction of INR 12,999 associated with merchant account NXRA1234 has been placed on temporary settlement hold following a customer dispute. The transaction may be reviewed before release.\n\nPlease check the merchant dashboard for details.",
+    "attachment_names": [],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "FedEx Trade Networks",
+    "sender_email": "customs.india@fedex.com",
+    "subject": "Customs Clearance Update - AWB 771903482",
+    "body": "Shipment from Shenzhen containing electronic testing equipment has reached Mumbai Air Cargo Complex. Customs documentation has been received and assessment is in progress.\n\nEstimated clearance: 27 October, subject to customs examination and duty assessment.",
+    "attachment_names": [
+      "Shipment_771903482_Documents.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Google Workspace",
+    "sender_email": "workspace-noreply@google.com",
+    "subject": "Security alert: administrator password expiry",
+    "body": "The administrator password for the Google Workspace account associated with your organisation is scheduled for expiry in 7 days.\n\nSign in to the Admin console to review password policy and account security settings.",
+    "attachment_names": [],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Adobe Enterprise",
+    "sender_email": "adminconsole@adobe.com",
+    "subject": "License usage report - October",
+    "body": "Your Adobe enterprise subscription currently shows 74 assigned Acrobat licences, of which 68 have been active during the last 30 days. Renewal date: 18 December 2026.\n\nThe attached report provides user-level licence utilisation.",
+    "attachment_names": [
+      "Adobe_License_Usage_Oct2026.csv"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "MakeMyTrip for Business",
+    "sender_email": "business@makemytrip.com",
+    "subject": "Invoice - Corporate Travel September",
+    "body": "Attached is the consolidated September 2026 corporate travel invoice covering flight and hotel bookings made under your company account.\n\nGross value: INR 4,62,180. Credit note adjustments: INR 18,400. Net payable: INR 4,43,780.",
+    "attachment_names": [
+      "MMT_Corporate_Invoice_Sep2026.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "ElectroTech Expo India",
+    "sender_email": "events@electrotechexpo.in",
+    "subject": "Speaker Invitation - Electronics Supply Chain Summit",
+    "body": "We would like to invite a Nexora representative to participate in a panel on electronics distribution and service networks at the Electronics Supply Chain Summit in Bengaluru on 3 December 2026.\n\nThere is no speaker registration fee. Please confirm interest by 2 November.",
+    "attachment_names": [
+      "Speaker_Invitation_2026.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Grant Thornton Bharat",
+    "sender_email": "auditdesk@grantthornton.in",
+    "subject": "FY 2026-27 Audit PBC List - Reminder",
+    "body": "Following our earlier email, please provide the pending bank reconciliation statements, fixed asset register and selected vendor invoices for the quarter ended 30 September 2026.\n\nThe requested documents are listed in the attached PBC tracker.",
+    "attachment_names": [
+      "Audit_PBC_Tracker_Q2_2026.xlsx"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "ICICI Lombard Corporate Claims",
+    "sender_email": "claims.corporate@icicilombard.com",
+    "subject": "Claim Intimation Acknowledgement - CLM/26/10482",
+    "body": "We acknowledge receipt of the routine claim intimation concerning damage to equipment at the Pune service centre. A surveyor will contact the nominated representative to arrange inspection.\n\nClaim reference: CLM/26/10482.",
+    "attachment_names": [
+      "Claim_Acknowledgement_CLM2610482.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Regus India",
+    "sender_email": "sales@regus.com",
+    "subject": "Workspace Offer - Pune",
+    "body": "A furnished private office for 12 people is available at our Pune Business Bay centre from 1 December. Flexible terms from six months, meeting room credits included.\n\nMonthly package starts at INR 1,42,000 plus GST.\n\nWould you like the floor plan?",
+    "attachment_names": [
+      "Pune_Workspace_Offer.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Naukri Employer Solutions",
+    "sender_email": "enterprise@naukri.com",
+    "subject": "Final proposal - Nexora hiring campaign",
+    "body": "FINAL OFFER for Q4 hiring: 15 job postings + database access + recruiter branding for INR 89,999 + GST. Package expires Friday.\n\nIf you're not the correct contact, please forward this to your talent acquisition team.\n\nUnsubscribe | Manage communication preferences",
+    "attachment_names": [
+      "Naukri_Q4_Hiring_Package.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "CloudKart Components",
+    "sender_email": "accounts@cloudkartcomponents.in",
+    "subject": "Supplier Portal Registration",
+    "body": "Hi,\n\nWe have received Nexora's first order request. To activate dispatch, please register your billing entity on our supplier portal and upload GST certificate + PAN. Link remains active for 48 hours.\n\nKindly do the needful.\nThanks,\nCloudKart Team",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Omega Display Systems",
+    "sender_email": "dispatch@omegadisplay.in",
+    "subject": "Re: Invoice",
+    "body": "Goods against PO NX-PO-2719 are packed and ready. Dispatch of 120 LED panels will leave Ahmedabad on 26 October via VRL Logistics. Invoice amount is INR 11,82,400.\n\nPlease arrange receiving at Delhi service centre.",
+    "attachment_names": [
+      "Omega_Invoice_5571.pdf",
+      "Packing_List_5571.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Meta Business Support",
+    "sender_email": "business@facebookmail.com",
+    "subject": "Payment method update required",
+    "body": "Your advertising account has an unpaid balance of INR 19,840. Ads may be paused if the balance remains unpaid.\n\nReview your payment settings in Meta Business Suite.\n\nThis email was sent automatically. Unsubscribe from non-essential updates.",
+    "attachment_names": [],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "MSME Development Office",
+    "sender_email": "msme-support@gov.in",
+    "subject": "Advisory: MSME Export Promotion Scheme 2026-27",
+    "body": "Registered enterprises are informed that applications for the 2026-27 export promotion support programme are being accepted through the designated portal until 30 November 2026.\n\nThe scheme may provide eligible units reimbursement support for approved trade events and export promotion activities.",
+    "attachment_names": [
+      "MSME_Export_Scheme_2026-27.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "SevaCare Foundation",
+    "sender_email": "connect@sev carefoundation.org",
+    "subject": "Appeal for CSR Support - Winter Relief",
+    "body": "Dear Corporate Partner,\n\nWe are requesting support for blankets and winter medical camps for low-income communities in Delhi and Ahmedabad. A corporate contribution of INR 75,000 can support approximately 150 beneficiaries.\n\nPlease see the attached appeal note for details.\n\nTo stop receiving these appeals, reply REMOVE.",
+    "attachment_names": [
+      "SevaCare_Winter_Appeal.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Business Leaders Ranking Network",
+    "sender_email": "recognition@blrn-india.com",
+    "subject": "Notice: Nexora eligible for 2026 Industry Leaders Directory",
+    "body": "Our editorial team has selected Nexora for consideration in the 2026 Industry Leaders Directory. A featured listing package costs INR 32,500 and includes a company profile, digital badge and print certificate.\n\nThis is an invitation to participate and not an official government award.",
+    "attachment_names": [
+      "Industry_Directory_Offer.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Payment Verification Centre",
+    "sender_email": "verification@nexora-paysecure.com",
+    "subject": "Verify your account - urgent",
+    "body": "URGENT SECURITY NOTICE\n\nYour corporate payment profile will be suspended unless the administrator verifies the account today. Use the attached QR code to complete verification and avoid payment interruption.\n\nSecurity Operations Team",
+    "attachment_names": [
+      "Account_Verification_QR.png"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Prime Aircon Services",
+    "sender_email": "service@primeaircon.in",
+    "subject": "Final demand - AMC renewal",
+    "body": "FINAL DEMAND / NOTICE\n\nYour annual air-conditioning maintenance agreement expired on 30 September. Renewal amount is INR 64,900 plus GST. Kindly arrange payment and confirmation to continue preventive visits.\n\nThis is an administrative payment reminder and not a legal notice.\n\nRegards,\nPrime Aircon Services",
+    "attachment_names": [
+      "AMC_Renewal_Notice_2026.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Mumbai Metro Corporate Services",
+    "sender_email": "corporate@mumbaimetro.org",
+    "subject": "Corporate Travel Card Statement",
+    "body": "The monthly statement for Nexora's corporate transit cards is now available. Total usage recorded for September 2026 is INR 18,760.\n\nPlease review the attached statement and report any discrepancies within seven days.",
+    "attachment_names": [
+      "Nexora_Transit_Statement_Sep2026.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Sahyadri Water Solutions",
+    "sender_email": "support@sahyadriwater.in",
+    "subject": "Service appointment",
+    "body": "Water purifier AMC service for Pune office scheduled 29 Oct, 11 AM-1 PM. Technician: Sameer Patil. Please keep machine accessible.\n\nThank you.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Delhi Secure Systems",
+    "sender_email": "support@delhisecuresystems.in",
+    "subject": "Re: CCTV maintenance",
+    "body": "As discussed on call, engineer will visit Delhi centre on 31 October for quarterly CCTV inspection. Two cameras are showing intermittent connection issues.\n\nPlease confirm security desk access.",
+    "attachment_names": [],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Ahmedabad Office Interiors",
+    "sender_email": "sales@aoiworks.in",
+    "subject": "Quotation",
+    "body": "Sharing revised quotation for reception counter repair and 16 workstation partitions. Total project estimate INR 2,38,500 plus GST. Material can be delivered in 12 days.\n\nRegards,\nAOI Works\nSent from my iPhone",
+    "attachment_names": [
+      "AOI_Quotation_1026.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "India Post Business Services",
+    "sender_email": "corporate@indiapost.gov.in",
+    "subject": "Account statement - Speed Post Corporate",
+    "body": "Your September 2026 corporate mailing statement is available. Total billed amount is INR 41,285 across Mumbai, Pune and Hyderabad booking locations.\n\nThe statement is attached for reconciliation.",
+    "attachment_names": [
+      "IndiaPost_Corporate_Statement_Sep2026.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "SkillCert Global",
+    "sender_email": "certifications@skillcertglobal.com",
+    "subject": "Certification renewal reminder",
+    "body": "Reminder that three corporate certification seats under your SkillCert account expire on 18 November 2026. Renewal package is INR 21,000 plus GST.\n\nPlease advise if you want the renewal invoice generated.",
+    "attachment_names": [],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "PestShield India",
+    "sender_email": "billing@pestshield.in",
+    "subject": "Invoice PS-2026-884",
+    "body": "Monthly pest-control service invoice for Mumbai, Pune and Bengaluru locations attached. Net payable INR 31,860. Due 5 November 2026.\n\nFor billing queries contact 022-4128-7711.",
+    "attachment_names": [
+      "PestShield_Invoice_PS2026884.pdf"
+    ],
+    "difficulty": "medium"
+  }
+]

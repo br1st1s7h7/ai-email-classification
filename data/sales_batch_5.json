@@ -1,0 +1,496 @@
+[
+  {
+    "sender_name": "Rohan Kulkarni",
+    "sender_email": "rohan.kulkarni@gmail.com",
+    "subject": "Warranty registration problem",
+    "body": "Hi, I purchased Nexora 55-inch Smart TV on 14 October from the Andheri store. While registering warranty online, serial number NXTV55A26-91842 is showing invalid. Please help activate the warranty. Invoice attached.",
+    "attachment_names": [
+      "Invoice_14582.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Priya Nair",
+    "sender_email": "priyanair27@outlook.com",
+    "subject": "Not working",
+    "body": "The Nexora AC is connected to Wi-Fi but mobile app says device offline. I have tried removing and adding it twice. Model NAC-183S. Please tell me what setting I am missing.",
+    "attachment_names": [
+      "Screenshot.png"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Amit Shah",
+    "sender_email": "amit.shah@yahoo.com",
+    "subject": "Need remote for old TV",
+    "body": "I have 2019 Nexora 43 inch TV, model NXT43UHD19. Original remote stopped working. Can I buy the same remote or compatible one? Also need power adapter if available.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Sneha Patil",
+    "sender_email": "sneha.patil@gmail.com",
+    "subject": "Exchange request",
+    "body": "I bought a Nexora 7 kg washing machine last month but now need an 8.5 kg model because family requirement changed. Is exchange possible and how much value will be given for my current machine?",
+    "attachment_names": [
+      "Purchase_Invoice.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "BluePeak Technologies Pvt Ltd",
+    "sender_email": "accounts@bluepeaktech.in",
+    "subject": "GST invoice correction",
+    "body": "Please reissue invoice NX-INV-26891 with our correct company name BluePeak Technologies Pvt Ltd and GSTIN 27AABCB7412L1ZQ. Current invoice has the name Blue Peak Technology. Amount and product details are correct.",
+    "attachment_names": [
+      "Invoice_NX-INV-26891.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Neha Menon",
+    "sender_email": "nehamenon.dubai@gmail.com",
+    "subject": "Can you ship to Dubai?",
+    "body": "I am currently in Dubai and want to purchase your Nexora 65 inch TV for my parents in Mumbai, but I may need it shipped internationally later. Do you provide export/NRI delivery and what would be the approximate charges?",
+    "attachment_names": [],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Kunal Bhatia",
+    "sender_email": "kunal.bhatia@gmail.com",
+    "subject": "Showroom",
+    "body": "Which is your nearest showroom to Powai? I want to see 55 and 65 inch TVs before buying. Please also share Sunday timings.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Anjali Deshmukh",
+    "sender_email": "anjali.deshmukh@gmail.com",
+    "subject": "Re: Complaint still pending",
+    "body": "This is my third follow up. Ticket NX-45281 was raised on 5 October and technician visited on 8 October. The refrigerator is still making the same noise. I also spoke to customer care on 15 October under ticket NX-46103. Please escalate this to senior management and arrange a proper resolution.\n\n> On 15 Oct 2026, Nexora Support wrote:\n> Your complaint has been forwarded to the service team.",
+    "attachment_names": [
+      "Previous_Ticket_Screenshot.png"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Rahul Verma",
+    "sender_email": "rahulverma1989@gmail.com",
+    "subject": "Delivery issue",
+    "body": "Courier person came but refused delivery because OTP was not coming on my phone. Now tracking says delivery attempted. Please arrange another delivery for order NX-778213.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Meera Joshi",
+    "sender_email": "meerajoshi@yahoo.com",
+    "subject": "Refund not received",
+    "body": "My refund for cancelled order #4471920 was supposed to be completed on 10 October but nothing has come yet. If you need bank details, my account is with HDFC and the cancelled payment was from that account. Please let me know where to share the details securely.",
+    "attachment_names": [
+      "Cancellation_Confirmation.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Vivek Soni",
+    "sender_email": "vivek.soni@gmail.com",
+    "subject": "Price drop after purchase",
+    "body": "I purchased the Nexora 55NQ TV for Rs 52,999 on 12 October. Today the same TV is showing Rs 47,999. Can you provide price difference or cashback adjustment? Invoice attached.",
+    "attachment_names": [
+      "Invoice_77831.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Sanjay Rao",
+    "sender_email": "sanjayrao@gmail.com",
+    "subject": "URGENT TV overheating",
+    "body": "The back side of my Nexora TV is getting extremely hot after only 30-40 minutes. There was a small burning smell yesterday. I have switched it off and unplugged it. Please send someone to inspect it urgently. Model NXT55QLED.",
+    "attachment_names": [
+      "IMG_4471.jpg"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Orbit Retail Solutions Pvt Ltd",
+    "sender_email": "purchase@orbitretail.in",
+    "subject": "Service contract renewal discussion",
+    "body": "Our AMC for 34 Nexora air conditioners across Mumbai and Thane locations expires on 30 November 2026. Please share renewal pricing, SLA response time, preventive maintenance schedule and escalation matrix. We have had four breakdowns in the last two months and would like a stronger service arrangement.",
+    "attachment_names": [
+      "Existing_AMC_Schedule.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Ishita Kapoor",
+    "sender_email": "ishita.kapoor@gmail.com",
+    "subject": "Suggestion",
+    "body": "The picture quality on my Nexora TV is excellent. One suggestion: please add a sleep timer directly on the remote instead of making users open settings. Also a smaller remote would be easier for elderly people.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Galaxy Electronics Pune",
+    "sender_email": "sales@galaxyelectronicspune.in",
+    "subject": "Stock and margin",
+    "body": "Hello Team,\n\nPlease share current stock availability for 43 inch and 55 inch Smart TVs in Pune warehouse. Also need latest dealer margin, October scheme and credit period for our account. We are planning replenishment this week.\n\nRegards,\nGalaxy Electronics",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Sunrise Public School",
+    "sender_email": "purchase@sunriseps.edu.in",
+    "subject": "Follow-up on GeM purchase",
+    "body": "We had submitted our requirement for 24 laptops and 6 smart TVs through the GeM procurement process. Please confirm whether the quoted Nexora models and delivery schedule remain valid. The school is targeting installation before 20 November 2026.",
+    "attachment_names": [
+      "Requirement_Schedule.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Aarav Events",
+    "sender_email": "aarav.events@gmail.com",
+    "subject": "Bulk discount for wedding",
+    "body": "We are arranging a wedding in Jaipur in December and need around 18 TVs, 25 microwaves and 40 mobile accessory gift sets for family rooms and gifting. Please share your best bulk price. If there is any wedding/event scheme kindly mention that also.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Studio Nine Interiors",
+    "sender_email": "projects@studionineinteriors.in",
+    "subject": "AC requirement for project",
+    "body": "We are designing a 14,000 sq ft premium residence in Bengaluru. Please advise suitable Nexora split AC tonnage for bedrooms of approximately 180-220 sq ft and a 650 sq ft living area with west-facing glass. Need power consumption, outdoor unit dimensions and recommended models for concealed installation.",
+    "attachment_names": [
+      "Floor_Plan_Bengaluru_Project.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Arjun",
+    "sender_email": "arjunmumbai@gmail.com",
+    "subject": "NX-903817",
+    "body": "NX-903817 status?",
+    "attachment_names": [],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Pooja Malhotra",
+    "sender_email": "pooja.malhotra@gmail.com",
+    "subject": "Problem with my order and new order",
+    "body": "My washing machine delivery was delayed again and the refund for the cancelled accessory has also not come. At the same time I want to order the 9 kg front load model if you can give me the current best price. I am honestly very frustrated with this whole experience. Someone also told me I should go to consumer court but I just want this sorted properly first.\n\nOld order: ORD/26/009183\nNew model I want: NWM90F2",
+    "attachment_names": [
+      "Old_Order_Invoice.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Harish Iyer",
+    "sender_email": "harishiyer@outlook.com",
+    "subject": "TV purchase query",
+    "body": "Need 50 or 55 inch TV under Rs 45k. Mainly Netflix, sports and PS5. Which model has best HDMI support? I can purchase this weekend.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Nitin Agarwal",
+    "sender_email": "nitin.agarwal@yahoo.com",
+    "subject": "Order",
+    "body": "Can you confirm if order #5528174 has left your warehouse? Delivery address is Nashik.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Farah Khan",
+    "sender_email": "farahkhan@gmail.com",
+    "subject": "Need laptop urgently",
+    "body": "Hi, I need 2 laptops for office use, mostly Excel, browser and accounting software. Budget around 55-60k each. Please suggest available models and whether delivery to Hyderabad can happen before 31 October.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Rajiv Menon",
+    "sender_email": "rajiv.menon@gmail.com",
+    "subject": "Re: AC not cooling",
+    "body": "Still same issue. Technician came but only cleaned filter and left. AC is running but room temperature is not dropping below 27.\n\n> On 19 Oct 2026, Nexora Support wrote:\n> Technician visit has been completed and issue marked resolved.\n\nPlease reopen the complaint.",
+    "attachment_names": [
+      "Room_Temperature_Photo.jpg"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Mehta Distributors",
+    "sender_email": "orders@mehtadistributors.in",
+    "subject": "Dealer requirement for November",
+    "body": "Please confirm allocation for 75 units 43-inch Smart TV, 40 units 55-inch Smart TV and 20 split ACs. Also let us know if November scheme has been released. We need to finalise our order by tomorrow.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Kavita Sharma",
+    "sender_email": "kavitasharma23@gmail.com",
+    "subject": "Cashback not credited",
+    "body": "I bought refrigerator during the Diwali cashback offer and payment was completed on 2 October. Product delivered 7 October but cashback of Rs 3,000 is still not credited. Please check.",
+    "attachment_names": [
+      "Offer_Screenshot.png",
+      "Invoice.pdf"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Dr. Anil Thomas",
+    "sender_email": "admin@greenvalleyhospital.in",
+    "subject": "Requirement for hospital rooms",
+    "body": "We are looking for approximately 45 refrigerators and 30 TVs for a new hospital wing in Kochi. Please advise institutional pricing, warranty terms and delivery schedule. Installation support will also be required.",
+    "attachment_names": [],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Maya Fernandes",
+    "sender_email": "maya.fernandes@gmail.com",
+    "subject": "Nexora TV remote app",
+    "body": "My phone can see the TV on WiFi but pairing fails every time. Both are on same network. Is Android 15 supported for the Nexora remote app?",
+    "attachment_names": [
+      "Screenshot.png"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Vishal Jain",
+    "sender_email": "vishaljain@yahoo.com",
+    "subject": "Spare part",
+    "body": "Need door gasket for Nexora refrigerator NR-265X purchased around 2020. Local technician says original part may still be available. Please tell price and availability in Delhi.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Ritika Arora",
+    "sender_email": "ritika.arora@gmail.com",
+    "subject": "Can I exchange?",
+    "body": "Bought a Nexora 6.5 kg top load yesterday but would prefer 8 kg. Box opened but machine not installed yet. Can this be exchanged by paying difference?",
+    "attachment_names": [],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Crescent Design Consultants",
+    "sender_email": "projects@crescentdesign.in",
+    "subject": "TV dimensions for project",
+    "body": "For a hotel lobby project, we are considering 65-inch and 75-inch Nexora displays. Please provide exact width, height, depth without stand, VESA mounting dimensions and recommended wall clearance. We need this information for joinery drawings.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Prakash Electricals",
+    "sender_email": "prakash.electricals@gmail.com",
+    "subject": "Dealer scheme?",
+    "body": "Sir pls share current margin for AC and refrigerator. Any Diwali extension scheme available? We can pick stock from Ahmedabad.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Aditi Roy",
+    "sender_email": "aditi.roy@gmail.com",
+    "subject": "Invoice name correction",
+    "body": "Invoice #NX-INV-27184 was generated in my personal name, but I had entered my company details at checkout. Please change billing name to Roy Digital Solutions and add GSTIN 19AABCR2841K1ZP. Product is already delivered.",
+    "attachment_names": [
+      "Current_Invoice.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Suresh Nair",
+    "sender_email": "suresh.nair@gmail.com",
+    "subject": "International delivery",
+    "body": "I am an NRI living in Singapore. Can I pay from Singapore and have a Nexora refrigerator delivered to my parents in Chennai? If yes, please tell me whether warranty is valid and what documents are required.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Ramesh Gupta",
+    "sender_email": "ramesh.gupta@outlook.com",
+    "subject": "Showroom timing",
+    "body": "Need to see washing machines today. Is your Goregaon showroom open after 8 pm? Also do you have 8 kg front-load display available?",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Tanvi Shetty",
+    "sender_email": "tanvi.shetty@gmail.com",
+    "subject": "Urgent complaint follow up",
+    "body": "Complaint 48172 has been closed without fixing my refrigerator. Then new complaint 48901 was raised and technician has not called. I have already explained everything twice. Please have a senior person call me and don't close this again without checking with me.",
+    "attachment_names": [
+      "Complaint_History.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Imran Shaikh",
+    "sender_email": "imranshaikh@gmail.com",
+    "subject": "Courier returned",
+    "body": "Delivery boy said pincode 400072 is not serviceable even though your website accepted it. Now tracking shows return initiated. Please stop return and send again to same address.",
+    "attachment_names": [
+      "Tracking_Screenshot.png"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Neelam Kapoor",
+    "sender_email": "neelam.kapoor@yahoo.com",
+    "subject": "Refund",
+    "body": "Refund of Rs 8,499 for order ORD-882741 was marked processed on 16 Oct. Nothing received. Please check status and tell me if transaction reference is available.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Devendra Singh",
+    "sender_email": "devendra.singh@gmail.com",
+    "subject": "Coupon issue",
+    "body": "Coupon SAVE3000 was showing on checkout but disappeared after payment. Order amount is Rs 38,490. Kindly apply the promised discount or refund difference.",
+    "attachment_names": [
+      "Checkout_Screenshot.png"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Shweta Rao",
+    "sender_email": "shweta.rao@gmail.com",
+    "subject": "Battery swelling - please help",
+    "body": "My Nexora laptop battery has started swelling and the bottom panel is slightly raised. I have stopped charging it. Please advise whether I should bring it to the service centre or wait for pickup. Model NXL14 Pro.",
+    "attachment_names": [
+      "IMG_8821.jpg",
+      "Invoice.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Apex Facility Management",
+    "sender_email": "admin@apexfmservices.in",
+    "subject": "Repeated AC breakdowns",
+    "body": "We manage the Hyderabad office and currently have 21 Nexora AC units. Five units have required service more than once this quarter. Please advise whether an enhanced SLA or replacement programme is available before the next contract renewal.",
+    "attachment_names": [
+      "Service_History_Q2-Q3.xlsx"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Yashika Bansal",
+    "sender_email": "yashika.bansal@gmail.com",
+    "subject": "Love the TV",
+    "body": "Just wanted to say the 55 inch Nexora TV has been fantastic for movies. Sound is much better than my previous TV. Would be nice if the next software update allowed custom picture profiles for different users.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Shree Balaji Electronics",
+    "sender_email": "shreebalajielectronics@gmail.com",
+    "subject": "Stock urgently required",
+    "body": "Need 30 pcs NXT43 Smart TV and 15 pcs 1.5T inverter AC for our Nagpur outlet. Please confirm stock, dealer rate and dispatch time. Payment can be advance if required.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Kendriya Vidyalaya Purchase Cell",
+    "sender_email": "purchase@kvsector17.edu.in",
+    "subject": "Tender follow-up - laptops",
+    "body": "With reference to our institutional requirement submitted on 8 October, please confirm the availability and warranty of the quoted 60 Nexora laptops. We require delivery and installation at our Delhi campus during November 2026. Kindly also confirm whether you can supply through the GeM route.",
+    "attachment_names": [
+      "Technical_Requirement.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Royal Wedding Planners",
+    "sender_email": "royalweddings@gmail.com",
+    "subject": "Quotation needed for 100 gifts",
+    "body": "We need around 100 branded mobile accessory gift kits for a corporate wedding event in Mumbai on 28 November. Please share bulk pricing for chargers, power banks and wireless earbuds, with logo packaging if possible.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Urban Habitat Architects",
+    "sender_email": "design@urbanhabitat.in",
+    "subject": "Technical query - split AC",
+    "body": "For a residential tower in Pune, typical bedrooms are 145-175 sq ft and living rooms around 350 sq ft. Please recommend suitable Nexora inverter AC capacities and confirm outdoor unit dimensions, maximum piping length and operating power range. We need this for our MEP coordination.",
+    "attachment_names": [
+      "Typical_Floor_Plan.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Manish",
+    "sender_email": "manishk@gmail.com",
+    "subject": "??",
+    "body": "ORD/26/010821",
+    "attachment_names": [],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Sonal Kapoor",
+    "sender_email": "sonal.kapoor@outlook.com",
+    "subject": "I want to work with you",
+    "body": "Hi, I am looking for any opening in sales/customer service at Nexora. I have 3 years retail electronics experience in Delhi. Please let me know where I can send CV.\n\nAlso I want to buy a Nexora refrigerator for my home, so please send current models and price if possible.",
+    "attachment_names": [
+      "Sonal_Kapoor_CV.pdf"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Vikram Joshi",
+    "sender_email": "vikram.joshi@gmail.com",
+    "subject": "Re: Order issue",
+    "body": "I am still waiting for the replacement remote and nobody has updated me. I also want to add a wall mount to the same order if it can be shipped together.\n\n> On 12 Oct 2026, Nexora Support wrote:\n> Your accessory request has been forwarded to the concerned team.\n\nPlease update.",
+    "attachment_names": [],
+    "difficulty": "hard"
+  },
+  {
+    "sender_name": "Deepak Electronics Hub",
+    "sender_email": "purchase@deepakelectronicshub.in",
+    "subject": "November purchase plan",
+    "body": "We are planning our November stock. Kindly send dealer price list for TVs 43-75 inch, refrigerators and washing machines. Also advise which models are currently moving fastest in Mumbai market and any scheme for payment within 15 days.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Nandita Rao",
+    "sender_email": "nandita.rao@gmail.com",
+    "subject": "TV recommendation",
+    "body": "I need a TV for a 10 ft viewing distance. Budget 60k maximum. Mostly OTT and normal cable. Please recommend 55 inch models with good speakers.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Aditya Mehra",
+    "sender_email": "aditya.mehra@yahoo.com",
+    "subject": "Order status",
+    "body": "Can someone tell me where order NX-641982 is? It was supposed to arrive 21 October and tracking hasn't changed since 19 October.",
+    "attachment_names": [
+      "Tracking.png"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Lakshmi Narayan",
+    "sender_email": "lakshmi.narayan@gmail.com",
+    "subject": "Washing machine purchase",
+    "body": "Need 8 kg washing machine for family of 5. Front load preferred. Please tell which model has steam wash and whether installation is included in Hyderabad.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Ritu Malhotra",
+    "sender_email": "ritu.malhotra@gmail.com",
+    "subject": "AC quotation please",
+    "body": "2 bedrooms and one hall. Need 3 ACs. Please suggest models and current price. Prefer inverter and 5 star if possible. Delivery to Ahmedabad.",
+    "attachment_names": [],
+    "difficulty": "medium"
+  },
+  {
+    "sender_name": "Aman Tiwari",
+    "sender_email": "aman.tiwari@outlook.com",
+    "subject": "Re: Refrigerator problem",
+    "body": "The refrigerator is cooling now but the freezer is making a loud clicking noise every few hours. Should I raise another complaint or will the previous service request remain open?\n\n> On 20 Oct 2026, Nexora Support wrote:\n> Our technician has completed the service visit.",
+    "attachment_names": [
+      "Video_Screenshot.jpg"
+    ],
+    "difficulty": "hard"
+  }
+]
