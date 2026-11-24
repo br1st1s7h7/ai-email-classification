@@ -187,3 +187,9 @@ python -m streamlit run src/streamlit_app.py
 ## Project Status
 
 Functional local prototype under active development and evaluation.
+
+## Application Dashboard
+
+The Streamlit dashboard provides a centralized interface for monitoring departmental email classification and human-review cases.
+
+![AI Email Classification Dashboard](image.png)
